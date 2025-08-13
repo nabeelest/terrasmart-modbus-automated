@@ -1,0 +1,325 @@
+"TTID","ID","Site","UnitID","StartingAddress","Size","CombinedHex","DecodedValue"
+1,"Device Type","192.168.12.73",101,0,8,"'00",""
+1,"Last Reported","192.168.12.73",101,8,4,"'0000000000000000","0"
+1,"Model Number","192.168.12.73",101,12,8,"'00",""
+1,"HW Rev","192.168.12.73",101,20,8,"'4E6F6E65000000000000000000000000","None"
+1,"FW Rev","192.168.12.73",101,28,8,"'00",""
+1,"Uptime","192.168.12.73",101,36,2,"'00000000",0
+1,"SNAP Addr","192.168.12.73",101,38,2,"'00","0x00"
+1,"RSSI","192.168.12.73",101,40,1,"'0000",0
+1,"Has WX Sensor","192.168.12.73",101,41,1,"'0000",0
+1,"Has Tracker HW","192.168.12.73",101,42,1,"'0000",0
+1,"Location Text","192.168.12.73",101,43,16,"'00",""
+1,"Latitude","192.168.12.73",101,59,2,"'00000000",0
+1,"Longitude","192.168.12.73",101,61,2,"'00000000",0
+1,"Config Flags","192.168.12.73",101,63,2,"'00000000",0
+1,"Battery Voltage","192.168.12.73",101,65,2,"'00000000",0
+1,"Battery Current","192.168.12.73",101,67,2,"'00000000",0
+1,"Battery Charged","192.168.12.73",101,69,1,"'0000",0
+1,"Battery Health","192.168.12.73",101,70,1,"'0000",0
+1,"Charger Voltage","192.168.12.73",101,71,2,"'00000000",0
+1,"Charger Current","192.168.12.73",101,73,2,"'00000000",0
+1,"Solar Voltage","192.168.12.73",101,75,2,"'00000000",0
+1,"Solar Current","192.168.12.73",101,77,2,"'00000000",0
+1,"Controller Status","192.168.12.73",101,79,2,"'00000000",0
+1,"Tracking Status","192.168.12.73",101,81,1,"'0000",0
+1,"Current Angle","192.168.12.73",101,82,2,"'00000000",0
+1,"Requested Angle","192.168.12.73",101,84,2,"'00000000",0
+1,"Motor Power (Prev Hr)","192.168.12.73",101,86,2,"'00000000",0
+1,"Angular Error (Prev Hr)","192.168.12.73",101,88,2,"'00000000",0
+1,"Wind Speed","192.168.12.73",101,90,2,"'00000000",0
+1,"Wind Direction","192.168.12.73",101,92,2,"'00000000",0
+1,"Avg Wind Speed","192.168.12.73",101,94,2,"'00000000",0
+1,"Peak Wind Speed","192.168.12.73",101,96,2,"'00000000",0
+1,"Snow Temp","192.168.12.73",101,98,2,"'00000000",0
+1,"Snow Distance","192.168.12.73",101,100,2,"'00000000",0
+1,"Snow Depth","192.168.12.73",101,102,2,"'00000000",0
+1,"Row Locked","192.168.12.73",101,104,1,"'0000",0
+2,"Device Type","192.168.12.73",101,512,8,"'57656174686572000000000000000000","Weather"
+2,"Last Reported","192.168.12.73",101,520,4,"'00000000689C92FE","1755091710"
+2,"Model Number","192.168.12.73",101,524,8,"'57582D31000000000000000000000000","WX-1"
+2,"HW Rev","192.168.12.73",101,532,8,"'33000000000000000000000000000000","3"
+2,"FW Rev","192.168.12.73",101,540,8,"'382E3400000000000000000000000000","8.4"
+2,"Uptime","192.168.12.73",101,548,2,"'000058D6",22742
+2,"SNAP Addr","192.168.12.73",101,550,2,"'13B537","0x13B537"
+2,"RSSI","192.168.12.73",101,552,1,"'000F",15
+2,"Has WX Sensor","192.168.12.73",101,553,1,"'0001",1
+2,"Has Tracker HW","192.168.12.73",101,554,1,"'0000",0
+2,"Location Text","192.168.12.73",101,555,16,"'3200000000000000000000000000000000000000000000000000000000000000","2"
+2,"Latitude","192.168.12.73",101,571,2,"'4206AD7B",33.66941452026367
+2,"Longitude","192.168.12.73",101,573,2,"'429216F4",73.04483032226562
+2,"Config Flags","192.168.12.73",101,575,2,"'00000010",16
+2,"Battery Voltage","192.168.12.73",101,577,2,"'41500000",13
+2,"Battery Current","192.168.12.73",101,579,2,"'3DB851EC",0.09000000357627869
+2,"Battery Charged","192.168.12.73",101,581,1,"'0015",21
+2,"Battery Health","192.168.12.73",101,582,1,"'0064",100
+2,"Charger Voltage","192.168.12.73",101,583,2,"'00000000",0
+2,"Charger Current","192.168.12.73",101,585,2,"'00000000",0
+2,"Solar Voltage","192.168.12.73",101,587,2,"'00000000",0
+2,"Solar Current","192.168.12.73",101,589,2,"'00000000",0
+2,"Controller Status","192.168.12.73",101,591,2,"'00000008",8
+2,"Tracking Status","192.168.12.73",101,593,1,"'0000",0
+2,"Current Angle","192.168.12.73",101,594,2,"'00000000",0
+2,"Requested Angle","192.168.12.73",101,596,2,"'00000000",0
+2,"Motor Power (Prev Hr)","192.168.12.73",101,598,2,"'00000000",0
+2,"Angular Error (Prev Hr)","192.168.12.73",101,600,2,"'00000000",0
+2,"Wind Speed","192.168.12.73",101,602,2,"'3DCCCCCD",0.10000000149011612
+2,"Wind Direction","192.168.12.73",101,604,2,"'3DCCCCCD",0.10000000149011612
+2,"Avg Wind Speed","192.168.12.73",101,606,2,"'3DCCCCCD",0.10000000149011612
+2,"Peak Wind Speed","192.168.12.73",101,608,2,"'3DCCCCCD",0.10000000149011612
+2,"Snow Temp","192.168.12.73",101,610,2,"'3DCCCCCD",0.10000000149011612
+2,"Snow Distance","192.168.12.73",101,612,2,"'3A83126F",0.0010000000474974513
+2,"Snow Depth","192.168.12.73",101,614,2,"'3A83126F",0.0010000000474974513
+2,"Row Locked","192.168.12.73",101,616,1,"'0000",0
+3,"Device Type","192.168.12.73",101,1024,8,"'00",""
+3,"Last Reported","192.168.12.73",101,1032,4,"'0000000000000000","0"
+3,"Model Number","192.168.12.73",101,1036,8,"'00",""
+3,"HW Rev","192.168.12.73",101,1044,8,"'4E6F6E65000000000000000000000000","None"
+3,"FW Rev","192.168.12.73",101,1052,8,"'00",""
+3,"Uptime","192.168.12.73",101,1060,2,"'00000000",0
+3,"SNAP Addr","192.168.12.73",101,1062,2,"'00","0x00"
+3,"RSSI","192.168.12.73",101,1064,1,"'0000",0
+3,"Has WX Sensor","192.168.12.73",101,1065,1,"'0000",0
+3,"Has Tracker HW","192.168.12.73",101,1066,1,"'0000",0
+3,"Location Text","192.168.12.73",101,1067,16,"'00",""
+3,"Latitude","192.168.12.73",101,1083,2,"'00000000",0
+3,"Longitude","192.168.12.73",101,1085,2,"'00000000",0
+3,"Config Flags","192.168.12.73",101,1087,2,"'00000000",0
+3,"Battery Voltage","192.168.12.73",101,1089,2,"'00000000",0
+3,"Battery Current","192.168.12.73",101,1091,2,"'00000000",0
+3,"Battery Charged","192.168.12.73",101,1093,1,"'0000",0
+3,"Battery Health","192.168.12.73",101,1094,1,"'0000",0
+3,"Charger Voltage","192.168.12.73",101,1095,2,"'00000000",0
+3,"Charger Current","192.168.12.73",101,1097,2,"'00000000",0
+3,"Solar Voltage","192.168.12.73",101,1099,2,"'00000000",0
+3,"Solar Current","192.168.12.73",101,1101,2,"'00000000",0
+3,"Controller Status","192.168.12.73",101,1103,2,"'00000000",0
+3,"Tracking Status","192.168.12.73",101,1105,1,"'0000",0
+3,"Current Angle","192.168.12.73",101,1106,2,"'00000000",0
+3,"Requested Angle","192.168.12.73",101,1108,2,"'00000000",0
+3,"Motor Power (Prev Hr)","192.168.12.73",101,1110,2,"'00000000",0
+3,"Angular Error (Prev Hr)","192.168.12.73",101,1112,2,"'00000000",0
+3,"Wind Speed","192.168.12.73",101,1114,2,"'00000000",0
+3,"Wind Direction","192.168.12.73",101,1116,2,"'00000000",0
+3,"Avg Wind Speed","192.168.12.73",101,1118,2,"'00000000",0
+3,"Peak Wind Speed","192.168.12.73",101,1120,2,"'00000000",0
+3,"Snow Temp","192.168.12.73",101,1122,2,"'00000000",0
+3,"Snow Distance","192.168.12.73",101,1124,2,"'00000000",0
+3,"Snow Depth","192.168.12.73",101,1126,2,"'00000000",0
+3,"Row Locked","192.168.12.73",101,1128,1,"'0000",0
+575,"Device Type","192.168.12.73",101,293888,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293888",""
+575,"Last Reported","192.168.12.73",101,293896,4,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293896",""
+575,"Model Number","192.168.12.73",101,293900,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293900",""
+575,"HW Rev","192.168.12.73",101,293908,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293908",""
+575,"FW Rev","192.168.12.73",101,293916,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293916",""
+575,"Uptime","192.168.12.73",101,293924,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293924",""
+575,"SNAP Addr","192.168.12.73",101,293926,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293926",""
+575,"RSSI","192.168.12.73",101,293928,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293928",""
+575,"Has WX Sensor","192.168.12.73",101,293929,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293929",""
+575,"Has Tracker HW","192.168.12.73",101,293930,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293930",""
+575,"Location Text","192.168.12.73",101,293931,16,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293931",""
+575,"Latitude","192.168.12.73",101,293947,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293947",""
+575,"Longitude","192.168.12.73",101,293949,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293949",""
+575,"Config Flags","192.168.12.73",101,293951,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293951",""
+575,"Battery Voltage","192.168.12.73",101,293953,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293953",""
+575,"Battery Current","192.168.12.73",101,293955,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293955",""
+575,"Battery Charged","192.168.12.73",101,293957,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293957",""
+575,"Battery Health","192.168.12.73",101,293958,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293958",""
+575,"Charger Voltage","192.168.12.73",101,293959,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293959",""
+575,"Charger Current","192.168.12.73",101,293961,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293961",""
+575,"Solar Voltage","192.168.12.73",101,293963,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293963",""
+575,"Solar Current","192.168.12.73",101,293965,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293965",""
+575,"Controller Status","192.168.12.73",101,293967,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293967",""
+575,"Tracking Status","192.168.12.73",101,293969,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293969",""
+575,"Current Angle","192.168.12.73",101,293970,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293970",""
+575,"Requested Angle","192.168.12.73",101,293972,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293972",""
+575,"Motor Power (Prev Hr)","192.168.12.73",101,293974,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293974",""
+575,"Angular Error (Prev Hr)","192.168.12.73",101,293976,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293976",""
+575,"Wind Speed","192.168.12.73",101,293978,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293978",""
+575,"Wind Direction","192.168.12.73",101,293980,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293980",""
+575,"Avg Wind Speed","192.168.12.73",101,293982,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293982",""
+575,"Peak Wind Speed","192.168.12.73",101,293984,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293984",""
+575,"Snow Temp","192.168.12.73",101,293986,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293986",""
+575,"Snow Distance","192.168.12.73",101,293988,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293988",""
+575,"Snow Depth","192.168.12.73",101,293990,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293990",""
+575,"Row Locked","192.168.12.73",101,293992,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 293992",""
+576,"Device Type","192.168.12.73",101,294400,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294400",""
+576,"Last Reported","192.168.12.73",101,294408,4,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294408",""
+576,"Model Number","192.168.12.73",101,294412,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294412",""
+576,"HW Rev","192.168.12.73",101,294420,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294420",""
+576,"FW Rev","192.168.12.73",101,294428,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294428",""
+576,"Uptime","192.168.12.73",101,294436,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294436",""
+576,"SNAP Addr","192.168.12.73",101,294438,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294438",""
+576,"RSSI","192.168.12.73",101,294440,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294440",""
+576,"Has WX Sensor","192.168.12.73",101,294441,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294441",""
+576,"Has Tracker HW","192.168.12.73",101,294442,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294442",""
+576,"Location Text","192.168.12.73",101,294443,16,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294443",""
+576,"Latitude","192.168.12.73",101,294459,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294459",""
+576,"Longitude","192.168.12.73",101,294461,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294461",""
+576,"Config Flags","192.168.12.73",101,294463,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294463",""
+576,"Battery Voltage","192.168.12.73",101,294465,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294465",""
+576,"Battery Current","192.168.12.73",101,294467,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294467",""
+576,"Battery Charged","192.168.12.73",101,294469,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294469",""
+576,"Battery Health","192.168.12.73",101,294470,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294470",""
+576,"Charger Voltage","192.168.12.73",101,294471,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294471",""
+576,"Charger Current","192.168.12.73",101,294473,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294473",""
+576,"Solar Voltage","192.168.12.73",101,294475,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294475",""
+576,"Solar Current","192.168.12.73",101,294477,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294477",""
+576,"Controller Status","192.168.12.73",101,294479,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294479",""
+576,"Tracking Status","192.168.12.73",101,294481,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294481",""
+576,"Current Angle","192.168.12.73",101,294482,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294482",""
+576,"Requested Angle","192.168.12.73",101,294484,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294484",""
+576,"Motor Power (Prev Hr)","192.168.12.73",101,294486,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294486",""
+576,"Angular Error (Prev Hr)","192.168.12.73",101,294488,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294488",""
+576,"Wind Speed","192.168.12.73",101,294490,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294490",""
+576,"Wind Direction","192.168.12.73",101,294492,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294492",""
+576,"Avg Wind Speed","192.168.12.73",101,294494,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294494",""
+576,"Peak Wind Speed","192.168.12.73",101,294496,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294496",""
+576,"Snow Temp","192.168.12.73",101,294498,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294498",""
+576,"Snow Distance","192.168.12.73",101,294500,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294500",""
+576,"Snow Depth","192.168.12.73",101,294502,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294502",""
+576,"Row Locked","192.168.12.73",101,294504,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294504",""
+577,"Device Type","192.168.12.73",101,294912,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294912",""
+577,"Last Reported","192.168.12.73",101,294920,4,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294920",""
+577,"Model Number","192.168.12.73",101,294924,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294924",""
+577,"HW Rev","192.168.12.73",101,294932,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294932",""
+577,"FW Rev","192.168.12.73",101,294940,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294940",""
+577,"Uptime","192.168.12.73",101,294948,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294948",""
+577,"SNAP Addr","192.168.12.73",101,294950,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294950",""
+577,"RSSI","192.168.12.73",101,294952,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294952",""
+577,"Has WX Sensor","192.168.12.73",101,294953,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294953",""
+577,"Has Tracker HW","192.168.12.73",101,294954,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294954",""
+577,"Location Text","192.168.12.73",101,294955,16,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294955",""
+577,"Latitude","192.168.12.73",101,294971,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294971",""
+577,"Longitude","192.168.12.73",101,294973,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294973",""
+577,"Config Flags","192.168.12.73",101,294975,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294975",""
+577,"Battery Voltage","192.168.12.73",101,294977,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294977",""
+577,"Battery Current","192.168.12.73",101,294979,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294979",""
+577,"Battery Charged","192.168.12.73",101,294981,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294981",""
+577,"Battery Health","192.168.12.73",101,294982,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294982",""
+577,"Charger Voltage","192.168.12.73",101,294983,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294983",""
+577,"Charger Current","192.168.12.73",101,294985,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294985",""
+577,"Solar Voltage","192.168.12.73",101,294987,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294987",""
+577,"Solar Current","192.168.12.73",101,294989,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294989",""
+577,"Controller Status","192.168.12.73",101,294991,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294991",""
+577,"Tracking Status","192.168.12.73",101,294993,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294993",""
+577,"Current Angle","192.168.12.73",101,294994,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294994",""
+577,"Requested Angle","192.168.12.73",101,294996,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294996",""
+577,"Motor Power (Prev Hr)","192.168.12.73",101,294998,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 294998",""
+577,"Angular Error (Prev Hr)","192.168.12.73",101,295000,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 295000",""
+577,"Wind Speed","192.168.12.73",101,295002,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 295002",""
+577,"Wind Direction","192.168.12.73",101,295004,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 295004",""
+577,"Avg Wind Speed","192.168.12.73",101,295006,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 295006",""
+577,"Peak Wind Speed","192.168.12.73",101,295008,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 295008",""
+577,"Snow Temp","192.168.12.73",101,295010,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 295010",""
+577,"Snow Distance","192.168.12.73",101,295012,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 295012",""
+577,"Snow Depth","192.168.12.73",101,295014,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 295014",""
+577,"Row Locked","192.168.12.73",101,295016,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 295016",""
+599,"Device Type","192.168.12.73",101,306176,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306176",""
+599,"Last Reported","192.168.12.73",101,306184,4,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306184",""
+599,"Model Number","192.168.12.73",101,306188,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306188",""
+599,"HW Rev","192.168.12.73",101,306196,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306196",""
+599,"FW Rev","192.168.12.73",101,306204,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306204",""
+599,"Uptime","192.168.12.73",101,306212,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306212",""
+599,"SNAP Addr","192.168.12.73",101,306214,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306214",""
+599,"RSSI","192.168.12.73",101,306216,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306216",""
+599,"Has WX Sensor","192.168.12.73",101,306217,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306217",""
+599,"Has Tracker HW","192.168.12.73",101,306218,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306218",""
+599,"Location Text","192.168.12.73",101,306219,16,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306219",""
+599,"Latitude","192.168.12.73",101,306235,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306235",""
+599,"Longitude","192.168.12.73",101,306237,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306237",""
+599,"Config Flags","192.168.12.73",101,306239,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306239",""
+599,"Battery Voltage","192.168.12.73",101,306241,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306241",""
+599,"Battery Current","192.168.12.73",101,306243,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306243",""
+599,"Battery Charged","192.168.12.73",101,306245,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306245",""
+599,"Battery Health","192.168.12.73",101,306246,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306246",""
+599,"Charger Voltage","192.168.12.73",101,306247,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306247",""
+599,"Charger Current","192.168.12.73",101,306249,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306249",""
+599,"Solar Voltage","192.168.12.73",101,306251,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306251",""
+599,"Solar Current","192.168.12.73",101,306253,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306253",""
+599,"Controller Status","192.168.12.73",101,306255,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306255",""
+599,"Tracking Status","192.168.12.73",101,306257,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306257",""
+599,"Current Angle","192.168.12.73",101,306258,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306258",""
+599,"Requested Angle","192.168.12.73",101,306260,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306260",""
+599,"Motor Power (Prev Hr)","192.168.12.73",101,306262,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306262",""
+599,"Angular Error (Prev Hr)","192.168.12.73",101,306264,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306264",""
+599,"Wind Speed","192.168.12.73",101,306266,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306266",""
+599,"Wind Direction","192.168.12.73",101,306268,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306268",""
+599,"Avg Wind Speed","192.168.12.73",101,306270,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306270",""
+599,"Peak Wind Speed","192.168.12.73",101,306272,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306272",""
+599,"Snow Temp","192.168.12.73",101,306274,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306274",""
+599,"Snow Distance","192.168.12.73",101,306276,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306276",""
+599,"Snow Depth","192.168.12.73",101,306278,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306278",""
+599,"Row Locked","192.168.12.73",101,306280,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306280",""
+600,"Device Type","192.168.12.73",101,306688,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306688",""
+600,"Last Reported","192.168.12.73",101,306696,4,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306696",""
+600,"Model Number","192.168.12.73",101,306700,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306700",""
+600,"HW Rev","192.168.12.73",101,306708,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306708",""
+600,"FW Rev","192.168.12.73",101,306716,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306716",""
+600,"Uptime","192.168.12.73",101,306724,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306724",""
+600,"SNAP Addr","192.168.12.73",101,306726,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306726",""
+600,"RSSI","192.168.12.73",101,306728,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306728",""
+600,"Has WX Sensor","192.168.12.73",101,306729,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306729",""
+600,"Has Tracker HW","192.168.12.73",101,306730,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306730",""
+600,"Location Text","192.168.12.73",101,306731,16,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306731",""
+600,"Latitude","192.168.12.73",101,306747,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306747",""
+600,"Longitude","192.168.12.73",101,306749,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306749",""
+600,"Config Flags","192.168.12.73",101,306751,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306751",""
+600,"Battery Voltage","192.168.12.73",101,306753,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306753",""
+600,"Battery Current","192.168.12.73",101,306755,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306755",""
+600,"Battery Charged","192.168.12.73",101,306757,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306757",""
+600,"Battery Health","192.168.12.73",101,306758,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306758",""
+600,"Charger Voltage","192.168.12.73",101,306759,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306759",""
+600,"Charger Current","192.168.12.73",101,306761,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306761",""
+600,"Solar Voltage","192.168.12.73",101,306763,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306763",""
+600,"Solar Current","192.168.12.73",101,306765,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306765",""
+600,"Controller Status","192.168.12.73",101,306767,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306767",""
+600,"Tracking Status","192.168.12.73",101,306769,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306769",""
+600,"Current Angle","192.168.12.73",101,306770,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306770",""
+600,"Requested Angle","192.168.12.73",101,306772,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306772",""
+600,"Motor Power (Prev Hr)","192.168.12.73",101,306774,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306774",""
+600,"Angular Error (Prev Hr)","192.168.12.73",101,306776,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306776",""
+600,"Wind Speed","192.168.12.73",101,306778,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306778",""
+600,"Wind Direction","192.168.12.73",101,306780,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306780",""
+600,"Avg Wind Speed","192.168.12.73",101,306782,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306782",""
+600,"Peak Wind Speed","192.168.12.73",101,306784,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306784",""
+600,"Snow Temp","192.168.12.73",101,306786,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306786",""
+600,"Snow Distance","192.168.12.73",101,306788,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306788",""
+600,"Snow Depth","192.168.12.73",101,306790,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306790",""
+600,"Row Locked","192.168.12.73",101,306792,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 306792",""
+601,"Device Type","192.168.12.73",101,307200,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307200",""
+601,"Last Reported","192.168.12.73",101,307208,4,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307208",""
+601,"Model Number","192.168.12.73",101,307212,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307212",""
+601,"HW Rev","192.168.12.73",101,307220,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307220",""
+601,"FW Rev","192.168.12.73",101,307228,8,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307228",""
+601,"Uptime","192.168.12.73",101,307236,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307236",""
+601,"SNAP Addr","192.168.12.73",101,307238,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307238",""
+601,"RSSI","192.168.12.73",101,307240,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307240",""
+601,"Has WX Sensor","192.168.12.73",101,307241,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307241",""
+601,"Has Tracker HW","192.168.12.73",101,307242,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307242",""
+601,"Location Text","192.168.12.73",101,307243,16,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307243",""
+601,"Latitude","192.168.12.73",101,307259,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307259",""
+601,"Longitude","192.168.12.73",101,307261,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307261",""
+601,"Config Flags","192.168.12.73",101,307263,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307263",""
+601,"Battery Voltage","192.168.12.73",101,307265,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307265",""
+601,"Battery Current","192.168.12.73",101,307267,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307267",""
+601,"Battery Charged","192.168.12.73",101,307269,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307269",""
+601,"Battery Health","192.168.12.73",101,307270,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307270",""
+601,"Charger Voltage","192.168.12.73",101,307271,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307271",""
+601,"Charger Current","192.168.12.73",101,307273,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307273",""
+601,"Solar Voltage","192.168.12.73",101,307275,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307275",""
+601,"Solar Current","192.168.12.73",101,307277,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307277",""
+601,"Controller Status","192.168.12.73",101,307279,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307279",""
+601,"Tracking Status","192.168.12.73",101,307281,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307281",""
+601,"Current Angle","192.168.12.73",101,307282,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307282",""
+601,"Requested Angle","192.168.12.73",101,307284,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307284",""
+601,"Motor Power (Prev Hr)","192.168.12.73",101,307286,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307286",""
+601,"Angular Error (Prev Hr)","192.168.12.73",101,307288,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307288",""
+601,"Wind Speed","192.168.12.73",101,307290,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307290",""
+601,"Wind Direction","192.168.12.73",101,307292,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307292",""
+601,"Avg Wind Speed","192.168.12.73",101,307294,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307294",""
+601,"Peak Wind Speed","192.168.12.73",101,307296,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307296",""
+601,"Snow Temp","192.168.12.73",101,307298,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307298",""
+601,"Snow Distance","192.168.12.73",101,307300,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307300",""
+601,"Snow Depth","192.168.12.73",101,307302,2,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307302",""
+601,"Row Locked","192.168.12.73",101,307304,1,"Error: The value of ""value"" is out of range. It must be >= 0 and <= 65535. Received 307304",""

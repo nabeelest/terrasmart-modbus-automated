@@ -1,0 +1,290 @@
+[
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Device Type",
+    "Codec": "Asciiz",
+    "BaseReg": 0,
+    "Size": 8
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Last Reported",
+    "Codec": "U64",
+    "BaseReg": 8,
+    "Size": 4
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Model Number",
+    "Codec": "Asciiz",
+    "BaseReg": 12,
+    "Size": 8
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "HW Rev",
+    "Codec": "Asciiz",
+    "BaseReg": 20,
+    "Size": 8
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "FW Rev",
+    "Codec": "Asciiz",
+    "BaseReg": 28,
+    "Size": 8
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Uptime",
+    "Codec": "U32",
+    "BaseReg": 36,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "SNAP Addr",
+    "Codec": "Hex",
+    "BaseReg": 38,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "RSSI",
+    "Codec": "S16",
+    "BaseReg": 40,
+    "Size": 1
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Has WX Sensor",
+    "Codec": "Bool",
+    "BaseReg": 41,
+    "Size": 1
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Has Tracker HW",
+    "Codec": "Bool",
+    "BaseReg": 42,
+    "Size": 1
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Location Text",
+    "Codec": "Asciiz",
+    "BaseReg": 43,
+    "Size": 16
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Latitude",
+    "Codec": "Float32",
+    "BaseReg": 59,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Longitude",
+    "Codec": "Float32",
+    "BaseReg": 61,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Config Flags",
+    "Codec": "U32",
+    "BaseReg": 63,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Battery Voltage",
+    "Codec": "Float32",
+    "BaseReg": 65,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Battery Current",
+    "Codec": "Float32",
+    "BaseReg": 67,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Battery Charged",
+    "Codec": "U16",
+    "BaseReg": 69,
+    "Size": 1
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Battery Health",
+    "Codec": "U16",
+    "BaseReg": 70,
+    "Size": 1
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Charger Voltage",
+    "Codec": "Float32",
+    "BaseReg": 71,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Charger Current",
+    "Codec": "Float32",
+    "BaseReg": 73,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Solar Voltage",
+    "Codec": "Float32",
+    "BaseReg": 75,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Solar Current",
+    "Codec": "Float32",
+    "BaseReg": 77,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Controller Status",
+    "Codec": "U32",
+    "BaseReg": 79,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Tracking Status",
+    "Codec": "U16",
+    "BaseReg": 81,
+    "Size": 1
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Current Angle",
+    "Codec": "Float32",
+    "BaseReg": 82,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Requested Angle",
+    "Codec": "Float32",
+    "BaseReg": 84,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Motor Power (Prev Hr)",
+    "Codec": "Float32",
+    "BaseReg": 86,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Angular Error (Prev Hr)",
+    "Codec": "Float32",
+    "BaseReg": 88,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Wind Speed",
+    "Codec": "Float32",
+    "BaseReg": 90,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Wind Direction",
+    "Codec": "Float32",
+    "BaseReg": 92,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Avg Wind Speed",
+    "Codec": "Float32",
+    "BaseReg": 94,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Peak Wind Speed",
+    "Codec": "Float32",
+    "BaseReg": 96,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Snow Temp",
+    "Codec": "Float32",
+    "BaseReg": 98,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Snow Distance",
+    "Codec": "Float32",
+    "BaseReg": 100,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Snow Depth",
+    "Codec": "Float32",
+    "BaseReg": 102,
+    "Size": 2
+  },
+  {
+    "UnitID": 1,
+    "Type": "remote_regs",
+    "ID": "Row Locked",
+    "Codec": "Bool",
+    "BaseReg": 104,
+    "Size": 1
+  }
+]

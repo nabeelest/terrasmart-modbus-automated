@@ -1,0 +1,19 @@
+{
+  "name": "modbus-automated",
+  "version": "1.0.0",
+  "description": "A Node.js application for generating comprehensive Modbus reports with different sorting modes.",
+  "main": "csvModbusPosition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node generateAllReports.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "dotenv": "^17.2.1",
+    "json2csv": "^6.0.0-alpha.2",
+    "modbus-serial": "^8.0.21-no-serial-port",
+    "node-fetch": "^3.3.2"
+  }
+}

@@ -1,0 +1,546 @@
+[
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "System ID",
+    "Codec": "Asciiz",
+    "BaseReg": 0,
+    "Size": 3
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Site Name",
+    "Codec": "Asciiz",
+    "BaseReg": 3,
+    "Size": 10
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Organization",
+    "Codec": "Asciiz",
+    "BaseReg": 13,
+    "Size": 10
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Contact",
+    "Codec": "Asciiz",
+    "BaseReg": 23,
+    "Size": 10
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "System Uptime",
+    "Codec": "U64",
+    "BaseReg": 33,
+    "Size": 4
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "SW Version",
+    "Codec": "Asciiz",
+    "BaseReg": 37,
+    "Size": 8
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Has WX",
+    "Codec": "Bool",
+    "BaseReg": 45,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "E-Stop Active",
+    "Codec": "Bool",
+    "BaseReg": 46,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Tracking Enabled",
+    "Codec": "Bool",
+    "BaseReg": 47,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Backtracking Enabled",
+    "Codec": "Bool",
+    "BaseReg": 48,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Panel Angle",
+    "Codec": "Float32",
+    "BaseReg": 49,
+    "Size": 2
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Tracking State",
+    "Codec": "U16",
+    "BaseReg": 51,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Unit Temp",
+    "Codec": "Float32",
+    "BaseReg": 52,
+    "Size": 2
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Battery Voltage",
+    "Codec": "Float32",
+    "BaseReg": 54,
+    "Size": 2
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Battery Current",
+    "Codec": "Float32",
+    "BaseReg": 56,
+    "Size": 2
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Battery Charged",
+    "Codec": "U16",
+    "BaseReg": 58,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Battery Health",
+    "Codec": "U16",
+    "BaseReg": 59,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Charger Voltage",
+    "Codec": "Float32",
+    "BaseReg": 60,
+    "Size": 2
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Charger Current",
+    "Codec": "Float32",
+    "BaseReg": 62,
+    "Size": 2
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Solar Voltage",
+    "Codec": "Float32",
+    "BaseReg": 64,
+    "Size": 2
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Solar Current",
+    "Codec": "Float32",
+    "BaseReg": 66,
+    "Size": 2
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Total Assets",
+    "Codec": "U16",
+    "BaseReg": 68,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Assets Reporting",
+    "Codec": "U16",
+    "BaseReg": 69,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Poll Response Time",
+    "Codec": "U64",
+    "BaseReg": 70,
+    "Size": 4
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Bridge Addr",
+    "Codec": "U32",
+    "BaseReg": 74,
+    "Size": 2
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Bridge Script CRC",
+    "Codec": "U16",
+    "BaseReg": 76,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Bridge Channel",
+    "Codec": "U16",
+    "BaseReg": 77,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Bridge NET_ID",
+    "Codec": "U16",
+    "BaseReg": 78,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "GPS Fix Acquired",
+    "Codec": "Bool",
+    "BaseReg": 79,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "GPS Fix Time",
+    "Codec": "U64",
+    "BaseReg": 80,
+    "Size": 4
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Satellites",
+    "Codec": "U16",
+    "BaseReg": 84,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Latitude",
+    "Codec": "Float32",
+    "BaseReg": 85,
+    "Size": 2
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Longitude",
+    "Codec": "Float32",
+    "BaseReg": 87,
+    "Size": 2
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "PPP Up",
+    "Codec": "Bool",
+    "BaseReg": 89,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "RSSI",
+    "Codec": "S16",
+    "BaseReg": 90,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "WAN IP",
+    "Codec": "Asciiz",
+    "BaseReg": 91,
+    "Size": 8
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "LAN IP",
+    "Codec": "Asciiz",
+    "BaseReg": 99,
+    "Size": 8
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Modem Uptime",
+    "Codec": "U32",
+    "BaseReg": 107,
+    "Size": 2
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "NTP Sync",
+    "Codec": "Bool",
+    "BaseReg": 109,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "NTP Server",
+    "Codec": "Asciiz",
+    "BaseReg": 110,
+    "Size": 16
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "NTP Offset",
+    "Codec": "Float32",
+    "BaseReg": 126,
+    "Size": 2
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 1 Time",
+    "Codec": "U64",
+    "BaseReg": 128,
+    "Size": 4
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 1 Type",
+    "Codec": "U16",
+    "BaseReg": 132,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 1 Message",
+    "Codec": "Asciiz",
+    "BaseReg": 133,
+    "Size": 20
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 2 Time",
+    "Codec": "U64",
+    "BaseReg": 153,
+    "Size": 4
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 2 Type",
+    "Codec": "U16",
+    "BaseReg": 157,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 2 Message",
+    "Codec": "Asciiz",
+    "BaseReg": 158,
+    "Size": 20
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 3 Time",
+    "Codec": "U64",
+    "BaseReg": 178,
+    "Size": 4
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 3 Type",
+    "Codec": "U16",
+    "BaseReg": 182,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 3 Message",
+    "Codec": "Asciiz",
+    "BaseReg": 183,
+    "Size": 20
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 4 Time",
+    "Codec": "U64",
+    "BaseReg": 203,
+    "Size": 4
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 4 Type",
+    "Codec": "U16",
+    "BaseReg": 207,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 4 Message",
+    "Codec": "Asciiz",
+    "BaseReg": 208,
+    "Size": 20
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 5 Time",
+    "Codec": "U64",
+    "BaseReg": 228,
+    "Size": 4
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 5 Type",
+    "Codec": "U16",
+    "BaseReg": 232,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 5 Message",
+    "Codec": "Asciiz",
+    "BaseReg": 233,
+    "Size": 20
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 6 Time",
+    "Codec": "U64",
+    "BaseReg": 253,
+    "Size": 4
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 6 Type",
+    "Codec": "U16",
+    "BaseReg": 257,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 6 Message",
+    "Codec": "Asciiz",
+    "BaseReg": 258,
+    "Size": 20
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 7 Time",
+    "Codec": "U64",
+    "BaseReg": 278,
+    "Size": 4
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 7 Type",
+    "Codec": "U16",
+    "BaseReg": 282,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 7 Message",
+    "Codec": "Asciiz",
+    "BaseReg": 283,
+    "Size": 20
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 8 Time",
+    "Codec": "U64",
+    "BaseReg": 303,
+    "Size": 4
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 8 Type",
+    "Codec": "U16",
+    "BaseReg": 307,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Alert 8 Message",
+    "Codec": "Asciiz",
+    "BaseReg": 308,
+    "Size": 20
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Site Operational Mode",
+    "Codec": "U16",
+    "BaseReg": 328,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Site Type",
+    "Codec": "U16",
+    "BaseReg": 329,
+    "Size": 1
+  },
+  {
+    "UnitID": 0,
+    "Type": "tc_regs",
+    "ID": "Stow Logic",
+    "Codec": "U16",
+    "BaseReg": 330,
+    "Size": 1
+  }
+]

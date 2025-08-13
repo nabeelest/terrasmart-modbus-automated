@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Modbus Reports Index - 192.168.12.73</title>
+  <link rel="icon" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/file-earmark-bar-graph.svg">
+  <style>
+    body { background: linear-gradient(120deg, #f8fafc 0%, #e0e7ef 100%); margin: 0; padding: 0; min-height: 100vh; }
+    .container { max-width: 800px; margin: 2.5em auto; background: #fff; border-radius: 18px; box-shadow: 0 6px 32px #b0b8c940, 0 1.5px 4px #b0b8c930; padding: 2.5em 2em 2em 2em; }
+    .header { display: flex; align-items: center; gap: 1em; margin-bottom: 2em; }
+    .header-icon { font-size: 2.5em; color: #16a34a; }
+    h1 { font-size: 2.2em; font-weight: 700; color: #22223b; margin: 0; letter-spacing: 1px; }
+    .report-grid { display: grid; gap: 1.5em; margin-top: 2em; }
+    .report-card { background: #f9fafb; border: 2px solid #e7fbe9; border-radius: 12px; padding: 1.5em; transition: all 0.2s; }
+    .report-card:hover { border-color: #16a34a; transform: translateY(-2px); box-shadow: 0 4px 12px #b0b8c920; }
+    .report-title { font-size: 1.3em; font-weight: 700; color: #166534; margin-bottom: 0.5em; }
+    .report-stats { color: #64748b; font-size: 0.9em; margin-bottom: 1em; }
+    .report-link { display: inline-block; background: #16a34a; color: white; padding: 0.7em 1.2em; border-radius: 6px; text-decoration: none; font-weight: 600; transition: all 0.2s; }
+    .report-link:hover { background: #15803d; transform: translateY(-1px); }
+    .home-btn { position: fixed; top: 14px; right: 14px; width: 38px; height: 38px; border-radius: 50%; background: #ffffff; color: #166534; display: flex; align-items: center; justify-content: center; text-decoration: none; border: 1px solid #e2e8f0; box-shadow: 0 2px 8px rgba(0,0,0,0.05); z-index: 9999; }
+    .home-btn:hover { background: #f1f5f9; }
+    @media (max-width: 600px) {
+      .container { padding: 1em; }
+      .report-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+</head>
+<body>
+  <a href="../192.168.12.73_master_index.html" class="home-btn" title="Home"><i class="bi bi-house"></i></a>
+  <div class="container">
+    <div class="header"><span class="header-icon"><i class="bi bi-file-earmark-bar-graph"></i></span><h1>Modbus Reports Index</h1></div>
+    <p style="color: #64748b; margin-bottom: 2em;">Site: 192.168.12.73 | Generated: 8/13/2025, 6:28:36 AM</p>
+    <div class="report-grid">
+      
+        <div class="report-card">
+          <div class="report-title">Row Boxes</div>
+          <div class="report-stats">TTIDs: 9 | Entries: 324</div>
+          <a href="192.168.12.73_row_modbus_data.html" class="report-link">View Report</a>
+        </div>
+      
+        <div class="report-card">
+          <div class="report-title">Weather Station</div>
+          <div class="report-stats">TTIDs: 9 | Entries: 324</div>
+          <a href="192.168.12.73_weather_modbus_data.html" class="report-link">View Report</a>
+        </div>
+      
+        <div class="report-card">
+          <div class="report-title">Repeater</div>
+          <div class="report-stats">TTIDs: 9 | Entries: 324</div>
+          <a href="192.168.12.73_repeater_modbus_data.html" class="report-link">View Report</a>
+        </div>
+      
+        <div class="report-card">
+          <div class="report-title">Network Controller</div>
+          <div class="report-stats">TTIDs: 1 | Entries: 68</div>
+          <a href="192.168.12.73_network_modbus_data.html" class="report-link">View Report</a>
+        </div>
+      
+    </div>
+  </div>
+</body>
+</html>
